@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Page 1 of 3"
+            android:id="@+id/textView14"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Ramayana and Bhagavata Purana"
+            android:id="@+id/textView15"
+            android:layout_below="@+id/textView14"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="10dp"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageViewtry"
+            android:background="@drawable/rel_1_1"
+            android:layout_below="@+id/textView15"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Prambanan bas relief, Ravana kidnapping Sita"
+            android:id="@+id/imglbl"
+            android:layout_below="@+id/imageViewtry"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="The temple is adorned with panels of narrative bas-reliefs telling the story of Hindu epic; Ramayana and Bhagavata Purana. The narrative bas-relief panels was carved along the inner balustrades wall on the gallery around the three main temples."
+            android:id="@+id/textView16"
+            android:fontFamily="sans-serif-condensed"
+            android:textAlignment="center"
+            android:layout_below="@+id/imglbl"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="The narrative panels on the balustrade read from left to right. The story started from east entrance where visitors turn left and moving around the temple gallery in clockwise direction. This conforms with pradaksina, the ritual of circumambulation performed by pilgrims who move in a clockwise direction while keeping the sanctuary to their right. The story of Ramayana started on Shiva temple balustrade and continued to Brahma temple. On the balustrades in Vishnu temple there is series of bas-relief panels depict the stories of lord Krishna from Bhagavata Purana."
+            android:fontFamily="sans-serif-condensed"
+            android:textAlignment="center"
+            android:id="@+id/textView17"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/textView16"
+            android:layout_marginTop="5dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="The bas-relief of Ramayana illustrate how Sita, the wife of Rama, is abducted by Ravana. The monkey king Hanuman brings his army to help Rama and rescue Sita. This story is also shown by the Ramayana Ballet, regularly performed at full moon at Trimurti open-air theatre in west side of the illuminated Prambanan complex."
+            android:fontFamily="sans-serif-condensed"
+            android:id="@+id/textView18"
+            android:textAlignment="center"
+            android:layout_below="@+id/textView17"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="5dp"/>
+
+    </RelativeLayout>
+</ScrollView>

@@ -1,0 +1,582 @@
+[
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_corner_bg.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\indicator_corner_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_background.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\app_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\relief_brahma.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\relief_brahma.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\angsa.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\angsa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\temple_objek.png",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\temple_objek.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\international_entrance.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\international_entrance.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tem_1_5.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\tem_1_5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\relief_kalpataru.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\relief_kalpataru.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a2_3.png",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\a2_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exit_icon.png",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\exit_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aerial_prambanan.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\aerial_prambanan.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_marker.png",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\ic_marker.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reset.png",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\reset.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\g17.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\g17.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\candi_all.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\candi_all.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pervara.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\pervara.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\his_1_3.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\his_1_3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\g19.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\g19.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\g8.JPG",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\g8.JPG"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\g13.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\g13.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a1_8.png",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\a1_8.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a1_5.png",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\a1_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\g5.JPG",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\g5.JPG"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tem_1_2.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\tem_1_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\his_1_2.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\his_1_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rel_1_3.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\rel_1_3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\g4.JPG",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\g4.JPG"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\panahkanan.png",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\panahkanan.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_icon.png",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\menu_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\denah_luar.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\denah_luar.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a2_1.png",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\a2_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\candi_brahma.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\candi_brahma.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\candi_wisnu.JPG",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\candi_wisnu.JPG"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exit_gate.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\exit_gate.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a2_4.png",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\a2_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\g7.JPG",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\g7.JPG"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\apit.JPG",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\apit.JPG"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\his_1_4.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\his_1_4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rel_1_2.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\rel_1_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rel_1_1.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\rel_1_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kelir.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\kelir.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\brahma.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\brahma.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a1_6.png",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\a1_6.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a3_1.png",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\a3_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gd_1_2.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\gd_1_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\garuda.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\garuda.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\g2.JPG",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\g2.JPG"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arc_1_2.png",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\arc_1_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\g22.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\g22.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a3_2.png",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\a3_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tem_1_1.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\tem_1_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\g6.JPG",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\g6.JPG"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\panahkiri.png",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\panahkiri.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a2_5.png",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\a2_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\deities_prambanan.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\deities_prambanan.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\entrance_gate.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\entrance_gate.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\patok.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\patok.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\g21.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\g21.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\g3.JPG",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\g3.JPG"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\g11.JPG",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\g11.JPG"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\g16.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\g16.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\denah_dalam.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\denah_dalam.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tem_1_3.JPG",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\tem_1_3.JPG"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a2_2.png",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\a2_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\g9.JPG",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\g9.JPG"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exit_temple.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\exit_temple.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\g25.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\g25.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\entrance_temple.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\entrance_temple.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info.png",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\info.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a1_1.png",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\a1_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tem_1_4.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\tem_1_4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a1_7.png",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\a1_7.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\g18.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\g18.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\g12.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\g12.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nandi.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\nandi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arc_1_1.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\arc_1_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a3_3.png",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\a3_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gd_1_1.JPG",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\gd_1_1.JPG"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\g15.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\g15.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\relief_siwa.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\relief_siwa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back1.png",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\back1.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_person_marker.png",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\ic_person_marker.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a1_2.png",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\a1_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\g20.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\g20.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a1_4.png",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\a1_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a1_3.png",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\a1_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\g1.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\g1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frame_background.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\frame_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\his_1_1.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\his_1_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vishnu.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\vishnu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\devata_relief.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\devata_relief.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\g14.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\g14.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\g23.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\g23.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shiva.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\shiva.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\g24.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\g24.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\candi_siwa.jpg",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\candi_siwa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\g10.JPG",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\drawable\\g10.JPG"
+    }
+]

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.willyranz.prambanan_virtual_guide.MainActivity"
+    tools:showIn="@layout/activity_main"
+    android:background="@drawable/app_background">
+
+    <com.daimajia.slider.library.SliderLayout
+        android:id="@+id/slider"
+        android:layout_width="match_parent"
+        app:pager_animation="DepthPage"
+        app:auto_cycle="true"
+        app:indicator_visibility="visible"
+        app:pager_animation_span="1200"
+        android:layout_height="225dp"/>
+
+
+    <com.daimajia.slider.library.Indicators.PagerIndicator
+        android:id="@+id/custom_indicator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:background="@drawable/indicator_corner_bg"
+        app:selected_color="#c92f2f"
+        app:unselected_color="#55333333"
+        app:shape="rect"
+        app:selected_padding_left="5dp"
+        app:selected_padding_right="5dp"
+        app:unselected_padding_left="5dp"
+        app:unselected_padding_right="5dp"
+        android:layout_alignParentTop="true"
+        app:selected_width="6dp"
+        app:selected_height="6dp"
+        app:unselected_width="6dp"
+        app:unselected_height="6dp"
+        android:layout_marginBottom="20dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        />
+
+    <ListView
+        android:layout_below="@+id/slider"
+        android:id="@+id/list_menu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffe75a"
+        android:entries="@array/listview_menu"
+        android:textAlignment="center"/>
+
+</RelativeLayout>

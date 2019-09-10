@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.willyranz.prambanan_virtual_guide.MainActivity">
+    <item
+        android:id="@+id/exit"
+        app:showAsAction="ifRoom|withText"
+        android:title="@string/exit"
+        android:icon="@drawable/exit_icon"/>
+    <item
+        android:id="@+id/back"
+        app:showAsAction="ifRoom|withText"
+        android:title="@string/back"
+        android:icon="@drawable/back1"/>
+</menu>

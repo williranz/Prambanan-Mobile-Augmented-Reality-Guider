@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="The Trimurti open-air and indoor stages on the west side of the temple, across the Opak River, were built to stage the ballet of the traditional Ramayana epic. This traditional Javanese dance is the centuries-old dance of the Javanese court. Since the 1960s, it has been performed every full moon night in the Prambanan temple. Since then, Prambanan has become one of the major archaeological and cultural tourism attractions in Indonesia."
+            android:id="@+id/textViewtry"
+            android:layout_below="@+id/imglbl"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:fontFamily="sans-serif-condensed"
+            android:textAlignment="center"
+            android:layout_marginTop="5dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Since the reconstruction of the main temples in the 1990s, Prambanan has been reclaimed as an important religious center for Hindu rituals and ceremonies in Java. Balinese and Javanese Hindu communities in ¬¬Yogyakarta and Central Java revived their practices of annually performing their sacred ceremonies in Prambanan, such as Galungan, Tawur Kesanga, and Nyepi."
+            android:fontFamily="sans-serif-condensed"
+            android:textAlignment="center"
+            android:layout_below="@+id/textViewtry"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="5dp"
+            android:id="@+id/textView17" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageViewtry"
+            android:background="@drawable/his_1_4"
+            android:layout_below="@+id/textView15"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Ramayana Ballet on stage performance"
+            android:id="@+id/imglbl"
+            android:layout_below="@+id/imageViewtry"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Page 4 of 4"
+            android:id="@+id/textView14"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Contemporary Event"
+            android:id="@+id/textView15"
+            android:layout_below="@+id/textView14"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="The temple was damaged during the 2006 Yogyakarta earthquake. Early photos suggested that although the complex was structurally intact, the damage was significant. Large pieces of debris, including carvings, were scattered over the ground. The temple was closed to visitors until the damage could be fully assessed. Eventually, the head of Yogyakarta Archaeological Conservation Agency stated that it would take months to identify the full extent of the damage. Some weeks later in 2006, the site was re-opened for visitors."
+            android:id="@+id/textView16"
+            android:fontFamily="sans-serif-condensed"
+            android:layout_below="@+id/textView17"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="5dp"
+            android:textAlignment="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="There is great interest in the site. In 2008, 856,029 Indonesian visitors and 114,951 foreign visitors visited Prambanan. On 6 January 2009 the reconstruction of Nandi temple finished. As of 2009, the interior of most of the temples remains off-limits for safety reasons."
+            android:id="@+id/textView18"
+            android:fontFamily="sans-serif-condensed"
+            android:layout_below="@+id/textView16"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="5dp"
+            android:textAlignment="center"/>
+
+    </RelativeLayout>
+</ScrollView>

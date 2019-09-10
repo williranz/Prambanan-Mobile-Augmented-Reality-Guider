@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="The Prambanan temple is the largest Hindu temple of ancient Java, and the first building was completed in the mid-9th century. It was likely started by Rakai Pikatan as the Hindu Sanjaya Dynasty's answer to the Buddhist Sailendra Dynasty's Borobudur and Sewu temples nearby. Historians suggest that the construction of Prambanan probably was meant to mark the return of the Hindu Sanjaya Dynasty to power in Central Java after almost a century of Buddhist Sailendra Dynasty domination. The construction of this massive Hindu temple signifies that the Medang court had shifted its patronage from Mahayana Buddhism to Shivaist Hinduism."
+            android:id="@+id/textViewtry"
+            android:layout_below="@+id/imglbl"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:fontFamily="sans-serif-condensed"
+            android:textAlignment="center"
+            android:layout_marginTop="5dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="A temple was first built at the site around 850 CE by Rakai Pikatan and expanded extensively by King Lokapala and Balitung Maha Sambu the Sanjaya king of the Mataram Kingdom. According to the Shivagrha inscription of 856 CE, the temple was built to honor Lord Shiva, and its original name was ‘Shiva-grha’ (the House of Shiva) or Shiva-laya (the Realm of Shiva)."
+            android:fontFamily="sans-serif-condensed"
+            android:textAlignment="center"
+            android:layout_below="@+id/textViewtry"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="5dp"
+            android:id="@+id/textView17" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageViewtry"
+            android:background="@drawable/his_1_1"
+            android:layout_below="@+id/textView15"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Prambanan temple as illustrated in te past"
+            android:id="@+id/imglbl"
+            android:layout_below="@+id/imageViewtry"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Page 1 of 4"
+            android:id="@+id/textView14"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Construction"
+            android:id="@+id/textView15"
+            android:layout_below="@+id/textView14"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="The temple compound was expanded by successive Mataram kings, such as Daksa and Tulodong, with the addition of hundreds of perwara temples around the chief temple. Prambanan served as the royal temple of the Kingdom of Mataram, with most of the state's religious ceremonies and sacrifices being conducted there. At the height of the kingdom, scholars estimate that hundreds of brahmins with their disciples lived within the outer wall of the temple compound. The urban center and the court of Mataram were located nearby, somewhere in the Prambanan Plain."
+            android:id="@+id/textView16"
+            android:fontFamily="sans-serif-condensed"
+            android:layout_below="@+id/textView17"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="5dp"
+            android:textAlignment="center"/>
+
+    </RelativeLayout>
+</ScrollView>

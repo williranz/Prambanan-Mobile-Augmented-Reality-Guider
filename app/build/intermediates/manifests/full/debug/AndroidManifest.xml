@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.willyranz.prambanan_virtual_guide"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="23" />
+
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the 'MyLocation' functionality. 
+    -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <permission
+        android:name="com.willyranz.prambanan_virtual_guide.permission.MAPS_RECEIVE"
+        android:protectionLevel="signature" />
+
+    <uses-permission
+        android:name="com.willyranz.prambanan_virtual_guide.permission.MAPS_RECEIVE"
+        android:protectionLevel="signature" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_GPS" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="true" />
+    <uses-feature
+        android:name="android.hardware.location"
+        android:required="true" />
+    <uses-feature
+        android:name="android.hardware.sensor.accelerometer"
+        android:required="true" />
+    <uses-feature
+        android:name="android.hardware.sensor.compass"
+        android:required="true" />
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <!-- Permissions required for GCM -->
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+ <!-- Optional permission for App measurement to run. -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <!-- poi detail screen -->
+        <activity android:name="com.willyranz.prambanan_virtual_guide.SamplePoiDetailActivity" />
+        <activity
+            android:name="com.willyranz.prambanan_virtual_guide.WebviewActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/web" />
+        <activity
+            android:name="com.willyranz.prambanan_virtual_guide.SampleCamActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize" />
+        <activity
+            android:name="com.willyranz.prambanan_virtual_guide.SampleCamActivityGeo"
+            android:configChanges="orientation|keyboardHidden|screenSize" />
+        <activity
+            android:name="com.willyranz.prambanan_virtual_guide.SampleCamContentFromNativeActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize" />
+        <activity
+            android:name="com.willyranz.prambanan_virtual_guide.VideoActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/video" />
+        <activity
+            android:name="com.willyranz.prambanan_virtual_guide.PlayVideo1"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/play1" />
+        <activity
+            android:name="com.willyranz.prambanan_virtual_guide.PlayVideo2"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/play2" />
+        <activity
+            android:name="com.willyranz.prambanan_virtual_guide.PlayVideo3"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/play3" />
+        <activity
+            android:name="com.willyranz.prambanan_virtual_guide.MapsFragment"
+            android:configChanges="orientation"
+            android:label="@string/route"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.willyranz.prambanan_virtual_guide.Arc"
+            android:configChanges="orientation"
+            android:label="@string/arsitektur"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.willyranz.prambanan_virtual_guide.GD"
+            android:configChanges="orientation"
+            android:label="@string/general"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.willyranz.prambanan_virtual_guide.His"
+            android:configChanges="orientation"
+            android:label="@string/history"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.willyranz.prambanan_virtual_guide.Rel"
+            android:configChanges="orientation"
+            android:label="@string/relic"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.willyranz.prambanan_virtual_guide.Tem"
+            android:configChanges="orientation"
+            android:label="@string/temple"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.willyranz.prambanan_virtual_guide.MainActivity"
+            android:configChanges="orientation"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.willyranz.prambanan_virtual_guide.MainMenu"
+            android:configChanges="orientation"
+            android:label="@string/menu"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.willyranz.prambanan_virtual_guide.GalleryActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_gallery" />
+        <activity
+            android:name="com.willyranz.prambanan_virtual_guide.DenahActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/denah" />
+        <activity
+            android:name="com.willyranz.prambanan_virtual_guide.AboutActivity"
+            android:configChanges="orientation"
+            android:label="@string/about"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.willyranz.prambanan_virtual_guide.SplashOpening"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!--
+             ATTENTION: This was auto-generated to add Google Play services to your project for
+             App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
+        -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/. 
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity
+            android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity"
+            android:theme="@style/Theme.IAPTheme" />
+        <activity
+            android:name="com.google.android.gms.appinvite.PreviewActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppInvite.Preview" >
+            <intent-filter>
+                <action android:name="com.google.android.gms.appinvite.ACTION_PREVIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!--
+Service handling Google Sign-In user revocation. For apps that do not integrate with
+            Google Sign-In, this service will never be started.
+        -->
+        <service
+            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+            android:exported="true"
+            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+
+        <provider
+            android:name="com.google.android.gms.measurement.AppMeasurementContentProvider"
+            android:authorities="com.willyranz.prambanan_virtual_guide.google_measurement_service"
+            android:exported="false" />
+
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+            android:enabled="true" >
+            <intent-filter>
+                <action android:name="com.google.android.gms.measurement.UPLOAD" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementService"
+            android:enabled="true"
+            android:exported="false" />
+    </application>
+
+</manifest>

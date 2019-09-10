@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fadein.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\animator\\fadein.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\animator\\antislide_up.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\animator\\antislide_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\animator\\antislide_out.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\animator\\antislide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\animator\\slide_down.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\animator\\slide_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\animator\\antislide_in.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\animator\\antislide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\animator\\slide_out.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\animator\\slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\animator\\slide_up.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\animator\\slide_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fadeout.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\animator\\fadeout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\animator\\antislide_down.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\animator\\antislide_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\animator\\slide_in.xml",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\animator\\slide_in.xml"
+    }
+]

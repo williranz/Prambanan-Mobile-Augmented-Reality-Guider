@@ -1,0 +1,182 @@
+package com.willyranz.prambanan_virtual_guide;
+
+import android.app.Activity;
+import android.content.Context;
+import android.content.Intent;
+import android.graphics.Color;
+import android.graphics.PixelFormat;
+import android.media.MediaPlayer;
+import android.net.Uri;
+import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
+import android.view.Menu;
+import android.view.MenuItem;
+import android.view.View;
+import android.view.animation.Animation;
+import android.view.animation.TranslateAnimation;
+import android.widget.LinearLayout;
+import android.widget.MediaController;
+import android.widget.TextView;
+import android.widget.VideoView;
+
+import com.google.android.gms.appindexing.Action;
+import com.google.android.gms.appindexing.AppIndex;
+import com.google.android.gms.common.api.GoogleApiClient;
+
+/**
+ * Created by Acer V5-132 on 3/19/2016.
+ */
+public class PlayVideo1 extends AppCompatActivity {
+
+    /**
+     * ATTENTION: This was auto-generated to implement the App Indexing API.
+     * See https://g.co/AppIndexing/AndroidStudio for more information.
+     */
+    private GoogleApiClient client;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        overridePendingTransition(R.animator.slide_in, R.animator.slide_out);
+        setContentView(R.layout.play_video1);
+
+        LinearLayout ticker_area = (LinearLayout) findViewById(R.id.ticker_area1);
+        setticker(ticker_area, "Strolling in Prambanan", this);
+
+        getWindow().setFormat(PixelFormat.UNKNOWN);
+        final VideoView mVideoView1 = (VideoView) findViewById(R.id.videoView1);
+
+        String uriPath1 = "android.resource://com.willyranz.prambanan_virtual_guide/" + R.raw.prambanan_tour;
+        Uri uri1 = Uri.parse(uriPath1);
+        mVideoView1.setVideoURI(uri1);
+        mVideoView1.requestFocus();
+
+        MediaController mediaController = new MediaController(this);
+        mediaController.setAnchorView(mVideoView1);
+        mVideoView1.setMediaController(mediaController);
+
+        mVideoView1.setOnPreparedListener(new MediaPlayer.OnPreparedListener() {
+            @Override
+            public void onPrepared(MediaPlayer mp) {
+                Log.i("com.willyranz.prambanan_virtual_guide", "Duration = " + mVideoView1.getDuration());
+            }
+        });
+        mVideoView1.start();
+
+        // ATTENTION: This was auto-generated to implement the App Indexing API.
+        // See https://g.co/AppIndexing/AndroidStudio for more information.
+        client = new GoogleApiClient.Builder(this).addApi(AppIndex.API).build();
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        // Inflate the menu; this adds items to the action bar if it is present.
+        getMenuInflater().inflate(R.menu.menu_main, menu);
+        return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        // Handle action bar item clicks here. The action bar will
+        // automatically handle clicks on the Home/Up button, so long
+        // as you specify a parent activity in AndroidManifest.xml.
+        int id = item.getItemId();
+        //noinspection SimplifiableIfStatement
+        if (id == R.id.exit) {
+            Intent homeIntent = new Intent(Intent.ACTION_MAIN);
+            homeIntent.addCategory(Intent.CATEGORY_HOME);
+            homeIntent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+            startActivity(homeIntent);
+        } else {
+            Intent i = new Intent(getApplicationContext(), VideoActivity.class);
+            startActivity(i);
+        }
+        return super.onOptionsItemSelected(item);
+    }
+
+    @Override
+    public void onStart() {
+        super.onStart();
+
+        // ATTENTION: This was auto-generated to implement the App Indexing API.
+        // See https://g.co/AppIndexing/AndroidStudio for more information.
+        client.connect();
+        Action viewAction = Action.newAction(
+                Action.TYPE_VIEW, // TODO: choose an action type.
+                "PlayVideo1 Page", // TODO: Define a title for the content shown.
+                // TODO: If you have web page content that matches this app activity's content,
+                // make sure this auto-generated web page URL is correct.
+                // Otherwise, set the URL to null.
+                Uri.parse("http://host/path"),
+                // TODO: Make sure this auto-generated app deep link URI is correct.
+                Uri.parse("android-app://com.willyranz.prambanan_virtual_guide/http/host/path")
+        );
+        AppIndex.AppIndexApi.start(client, viewAction);
+    }
+
+    @Override
+    public void onStop() {
+        super.onStop();
+
+        // ATTENTION: This was auto-generated to implement the App Indexing API.
+        // See https://g.co/AppIndexing/AndroidStudio for more information.
+        Action viewAction = Action.newAction(
+                Action.TYPE_VIEW, // TODO: choose an action type.
+                "PlayVideo1 Page", // TODO: Define a title for the content shown.
+                // TODO: If you have web page content that matches this app activity's content,
+                // make sure this auto-generated web page URL is correct.
+                // Otherwise, set the URL to null.
+                Uri.parse("http://host/path"),
+                // TODO: Make sure this auto-generated app deep link URI is correct.
+                Uri.parse("android-app://com.willyranz.prambanan_virtual_guide/http/host/path")
+        );
+        AppIndex.AppIndexApi.end(client, viewAction);
+        client.disconnect();
+    }
+
+
+    public  void setticker(LinearLayout parent_layout, String text, Context contx) {
+        if (text != "") {
+            TextView view = new TextView(contx);
+            view.setText(text);
+            view.setTextColor(Color.BLUE);
+            view.setTextSize(27.0F);
+            Context context = view.getContext();
+            // gets the context of the view
+            // measures the unconstrained size of the view
+            // before it is drawn in the layout
+            view.measure(View.MeasureSpec.UNSPECIFIED, View.MeasureSpec.UNSPECIFIED);
+
+            // takes the unconstrained width of the view
+            float width = view.getMeasuredWidth();
+
+            float height = view.getMeasuredHeight();
+
+            // gets the screen width
+            float screenWidth = ((Activity) context).getWindowManager().getDefaultDisplay().getWidth();
+
+            view.setLayoutParams(new LinearLayout.LayoutParams((int) width, (int) height, 1f));
+            System.out.println("width and screenwidth are" + width + "/" + screenWidth + "///" + view.getMeasuredWidth());
+
+            // performs the calculation
+            float toXDelta = width - (screenWidth - 0);
+
+            // sets toXDelta to -300 if the text width is smaller that the
+            // screen size
+            if (toXDelta < 0) {
+                toXDelta = 0 - screenWidth;// -300;
+            } else {
+                toXDelta = 0 - screenWidth - toXDelta;// -300 - toXDelta;
+            }
+            // Animation parameters
+            Animation mAnimation = new TranslateAnimation(screenWidth, toXDelta, 0, 0);
+            mAnimation.setDuration(15000);
+            mAnimation.setRepeatMode(Animation.RESTART);
+            mAnimation.setRepeatCount(Animation.INFINITE);
+            view.setAnimation(mAnimation);
+            parent_layout.addView(view);
+        }
+    }
+
+}

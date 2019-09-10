@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">PRAMBANAN MOBILE GUIDER</string>
+    <string name="menu">About Prambanan</string>
+    <string name="denah">The Sketch of Prambanan</string>
+    <string name="exit">Exit</string>
+    <string name="back">Back</string>
+    <string name="about">About Application</string>
+
+    <string name="general">General Information</string>
+    <string name="temple">The Temple Compound</string>
+    <string name="history">History</string>
+    <string name="arsitektur">Architecture</string>
+    <string name="relic">Reliefs</string>
+
+    <string name="route">Route to Prambanan</string>
+    <string name="video">Prambanan Videos</string>
+    <string name="play1">Prambanan Tour Video</string>
+    <string name="play2">Ramayana Ballet Dance</string>
+    <string name="play3">Application Demo</string>
+    <string name="web">Target Details</string>
+
+    <string-array name="listview_menu">
+        <item>Route to Prambanan</item>
+        <item>Sketch of Prambanan</item>
+        <item>Explore Prambanan Area</item>
+        <item>Scan Temple Object</item>
+        <item>Scanable Objects Gallery</item>
+        <item>Prambanan Videos</item>
+        <item>Panoramic 360</item>
+        <item>About</item>
+    </string-array>
+
+    <string-array name="listview_menu_about">
+        <item>General Information</item>
+        <item>History</item>
+        <item>The Temple Compound</item>
+        <item>Architecture</item>
+        <item>Reliefs</item>
+    </string-array>
+
+    <string-array name="listview_video">
+        <item>Prambanan Tour Video</item>
+        <item>Ramayana Ballet Dance</item>
+        <item>Aplication Demo</item>
+    </string-array>
+
+    <string name="title_activity_gallery">Scannable Objects Gallery by Temple</string>
+</resources>

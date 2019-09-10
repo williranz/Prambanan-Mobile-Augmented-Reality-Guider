@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\raw\\warning.mp3",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\raw\\warning.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\raw\\demoapp.mp4",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\raw\\demoapp.mp4"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\raw\\enterscan.mp3",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\raw\\enterscan.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.4.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ramayana_dance.mp4",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\raw\\ramayana_dance.mp4"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\raw\\opening1.mp3",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\raw\\opening1.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\raw\\prambanan_tour.mp4",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\raw\\prambanan_tour.mp4"
+    },
+    {
+        "merged": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\build\\intermediates\\res\\merged\\debug\\raw\\entergeo.mp3",
+        "source": "C:\\Users\\Acer V5-132\\AndroidStudioProjects\\Prambanan_Virtual_Guide\\app\\src\\main\\res\\raw\\entergeo.mp3"
+    }
+]

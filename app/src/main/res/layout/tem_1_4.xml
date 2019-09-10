@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Page 4 of 5"
+            android:id="@+id/textView14"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Vahana temples, Apit temples and Smaller shrines"
+            android:id="@+id/textView15"
+            android:layout_below="@+id/textView14"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="10dp"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageViewtry"
+            android:background="@drawable/tem_1_4"
+            android:layout_below="@+id/textView15"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="One of the Apit Temple in Prambanan Compound"
+            android:id="@+id/imglbl"
+            android:layout_below="@+id/imageViewtry"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="The other three shrine in front of three main temples is dedicated to vehicle (vahana) of the respective gods – the bull Nandi for Shiva, the sacred swan Hamsa for Brahma, and Vishnu's Kite Garuda. Precisely in front of Shiva temple stands Nandi temple which contains a statue of Nandi bull, the vehicle (vahana) of Lord Shiva. Besides it, there is also other statues, the statue of Chandra the god of moon and Surya the god of sun. Chandra stands on his carriage pulled by 10 horses, and the statue of Surya also standing on a carriage pulled by 7 horses."
+            android:id="@+id/textView16"
+            android:layout_below="@+id/imglbl"
+            android:fontFamily="sans-serif-condensed"
+            android:textAlignment="center"
+            android:layout_marginTop="5dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Facing Brahma temple is the temple of Hamsa or Angsa (sacred swan). In the chamber of this temple contains no statue. But it seems likely that there was once a statue of the sacred swan, vehicle of god Brahma. In front of Vishnu temple is the temple dedicated for Garuda, however just like the Hamsa temple, Garuda temple contains no statue. Probably this temple once contains the statue of Garuda, the vehicle of Vishnu. Garuda holds important role for Indonesia, as it serves as the national symbol of Indonesia, and also as the name of the airline Garuda Indonesia."
+            android:fontFamily="sans-serif-condensed"
+            android:textAlignment="center"
+            android:id="@+id/textView17"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/textView16"
+            android:layout_marginTop="5dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Between these row of main temple, on north and south side stands two Candi Apit. Beside these 8 main temples, there's also 8 smaller shrines; 4 Candi Kelir on four cardinal direction of the entrance, and 4 Candi Patok on four corner of inner zone."
+            android:id="@+id/textView18"
+            android:textAlignment="center"
+            android:layout_below="@+id/textView17"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="5dp"
+            android:fontFamily="sans-serif-condensed"/>
+
+    </RelativeLayout>
+</ScrollView>

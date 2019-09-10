@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Page 5 of 5"
+            android:id="@+id/textView14"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Pervara temples"
+            android:id="@+id/textView15"
+            android:layout_below="@+id/textView14"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="10dp"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageViewtry"
+            android:background="@drawable/tem_1_5"
+            android:layout_below="@+id/textView15"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Pervara Temple in Prambanan"
+            android:id="@+id/imglbl"
+            android:layout_below="@+id/imageViewtry"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="The two walled perimeters that surround the remaining two yards to the interior are oriented to the four cardinal points. The second yard's walled perimeter, which measures about 225 metres per side, surrounds a terraced area that consists of four rows containing 44, 52, 60, and 68 pervara temples. Respectively, each with a height of 14 metres and measuring 6×6 metres at the base, or 224 structures in total. The sixteen temples located at the corners of the rows face two directions; the remaining 208 structures open to only one of the four cardinal directions."
+            android:id="@+id/textView16"
+            android:layout_below="@+id/imglbl"
+            android:fontFamily="sans-serif-condensed"
+            android:textAlignment="center"
+            android:layout_marginTop="5dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="The middle zone consists of four rows of 224 individual small shrines. There are great numbers of these temples, but most of them are still in ruins and only some have been reconstructed. These concentric rows of temples were made in identical design. Each row towards the center is slightly elevated. These shrines are called 'Candi Perwara' guardian or complementary temples, the additional buildings of the main temple. Some believed it was offered to the king as a sign of submission."
+            android:fontFamily="sans-serif-condensed"
+            android:textAlignment="center"
+            android:id="@+id/textView17"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/textView16"
+            android:layout_marginTop="5dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="The Perwara are arranged in four rows around the central temples, some believed it has something to do with four castes, made according to the rank of the people allowed to enter them; the row nearest to the central compound was accessible to the priests only, the other three were reserved for the nobles, the knights, and the simple people respectively. While another believed that the four rows of Perwara has nothing to do with four castes, it just simply made as meditation place for priests and as worship place for devotees."
+            android:id="@+id/textView18"
+            android:textAlignment="center"
+            android:layout_below="@+id/textView17"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="5dp"
+            android:fontFamily="sans-serif-condensed"/>
+
+    </RelativeLayout>
+</ScrollView>

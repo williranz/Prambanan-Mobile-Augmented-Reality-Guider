@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Page 2 of 5"
+            android:id="@+id/textView14"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Shiva Temple"
+            android:id="@+id/textView15"
+            android:layout_below="@+id/textView14"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="10dp"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageViewtry"
+            android:background="@drawable/tem_1_2"
+            android:layout_below="@+id/textView15"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Shiva Temple, the tallest building in Prambanan"
+            android:id="@+id/imglbl"
+            android:layout_below="@+id/imageViewtry"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="The inner zone or central compound is the holiest among the three zones. It is the square elevated platform surrounded by square stone wall with stone gates on each four cardinal points. This holiest compound is assembled of eight main shrines or candi. The three main shrines, called Trimurti 'three forms', are dedicated to the three Gods: Brahma the Creator, Vishnu the Keeper, and Shiva the Destroyer."
+            android:id="@+id/textView16"
+            android:layout_below="@+id/imglbl"
+            android:fontFamily="sans-serif-condensed"
+            android:textAlignment="center"
+            android:layout_marginTop="5dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="The Shiva temple is the tallest and largest structure in Prambanan Loro Jonggrang complex, it measures 47 metres tall and 34 metres wide. The Shiva temple encircled with galleries adorned with bas-reliefs telling the story of Ramayana carved on the inner walls of the balustrades. To follow the story accordingly, visitors must enter from the east side and began to perform pradakshina or circumambulating clockwise. The bas-reliefs of Ramayana continued to Brahma temple galleries."
+            android:fontFamily="sans-serif-condensed"
+            android:textAlignment="center"
+            android:id="@+id/textView17"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/textView16"
+            android:layout_marginTop="5dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="The Shiva shrine located at the center and contains five chambers, four small chambers in every cardinal direction and one bigger main chamber in central part of the temple. The east chamber connect to central chamber that houses the largest temple in Prambanan, a three meter high statue of Shiva Mahadeva (the Supreme God). The statue bears Lakçana (attributes or symbol) of Shiva such as skull and sickle (crescent) at the crown, and third eye on the forehead, also four hands that holds Shiva's symbols: a prayer beads, feather duster, and trisula (trident). Some historians believe that the depiction of Shiva as Mahadeva also meant to personify king Balitung as the reincarnation of Shiva. So, when he died, a temple was built to commemorate him as Shiva. The statue of Shiva stands on lotus pad on Yoni pedestal that bears the carving of Nāga serpents on north side of pedestal."
+            android:id="@+id/textView18"
+            android:textAlignment="center"
+            android:layout_below="@+id/textView17"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="5dp"
+            android:fontFamily="sans-serif-condensed"/>
+
+    </RelativeLayout>
+</ScrollView>

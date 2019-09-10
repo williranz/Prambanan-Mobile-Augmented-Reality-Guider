@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="The Javanese locals in the surrounding villages knew about the temple ruins before formal rediscovery, but they did not know about its historical background: which kingdoms ruled or which king commissioned the construction of the monuments. As a result, the locals developed tales and legends to explain the origin of temples, infused with myths of giants, and a cursed princess. They gave Prambanan and Sewu a wondorous origin; these were said in the Loro Jonggrang legend to have been created by a multitude of demons under the order of Bandung Bondowoso."
+            android:id="@+id/textViewtry"
+            android:layout_below="@+id/imglbl"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:fontFamily="sans-serif-condensed"
+            android:textAlignment="center"
+            android:layout_marginTop="5dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="The temple attracted international attention early in the 19th century. In 1811 during Britain’s short-lived occupation of the Dutch East Indies, Colin Mackenzie, a surveyor in the service of Sir Thomas Stamford Raffles, came upon the temples by chance. Although Sir Thomas subsequently commissioned a full survey of the ruins, they remained neglected for decades. Dutch residents carried off sculptures as garden ornaments and native villagers used the foundation stones for construction material."
+            android:fontFamily="sans-serif-condensed"
+            android:textAlignment="center"
+            android:layout_below="@+id/textViewtry"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="5dp"
+            android:id="@+id/textView17" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageViewtry"
+            android:background="@drawable/his_1_3"
+            android:layout_below="@+id/textView15"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="The discovery of Prambanan ruin"
+            android:id="@+id/imglbl"
+            android:layout_below="@+id/imageViewtry"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Page 3 of 4"
+            android:id="@+id/textView14"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Rediscovery"
+            android:id="@+id/textView15"
+            android:layout_below="@+id/textView14"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Half-hearted excavations by archaeologists in the 1880s facilitated looting. In 1918, the Dutch began reconstruction of the compound and proper restoration only in 1930. Efforts at restoration continue to this day. The reconstruction of the main Shiva temple was completed around 1953 and inaugurated by Sukarno. Since much of the original stonework has been stolen and reused at remote construction sites, restoration was hampered considerably. given the scale of the temple complex, the government decided to rebuild shrines only if at least 75% of their original masonry was available. Most of the smaller shrines are now visible only in their foundations, with no plans for their reconstruction."
+            android:id="@+id/textView16"
+            android:fontFamily="sans-serif-condensed"
+            android:layout_below="@+id/textView17"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="5dp"
+            android:textAlignment="center"/>
+
+    </RelativeLayout>
+</ScrollView>
